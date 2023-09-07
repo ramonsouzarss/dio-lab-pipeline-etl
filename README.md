@@ -2,7 +2,7 @@
 DIO Santander Bootcamp 2023 - Ciência de Dados com Python - LAB (Projeto Prático) - Pipeline ETL Python
 
 # Apresentação
-Olá! Sou Ramon Souza Santos,
+Olá! Sou Ramon Souza,
 
 Esse é um Lab (Desafio Prático) proposto pela Digital Innovation One (DIO) do Santander Bootcamp 2023 da área de Ciência de Dados com Python.
 
